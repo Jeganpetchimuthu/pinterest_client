@@ -1,0 +1,23 @@
+.chickenImg {
+  width: 400px;
+  height: 400px;
+  margin-left: -700px;
+  margin-top: 60px;
+  border-radius: 15px;
+}
+.chickenManiaImage1 {
+  position: relative;
+  top: 70px;
+  width: 350px;
+  height: 350px;
+  margin-left: 700px;
+  border-radius: 15px;
+}
+.wallpaperImage1 {
+  position: relative;
+  top: 70px;
+  width: 350px;
+  height: 350px;
+  margin-left: -700px;
+  border-radius: 15px;
+}

@@ -1,0 +1,35 @@
+.Houseship {
+  margin-top: 40px;
+}
+.shipContent {
+  font-weight: 600;
+}
+.houses {
+  border: 1px solid rgb(250, 248, 248);
+  width: 970px;
+  height: 400px;
+  margin-left: 200px;
+  box-shadow: 1px 2px 1px 1px rgb(240, 238, 238);
+  border-radius: 15px;
+}
+.homeImage1 {
+  width: 400px;
+  height: 400px;
+  margin-left: -569px;
+  border-radius: 5px;
+}
+.jega {
+  position: relative;
+  margin-top: -300px;
+  width: 550px;
+  margin-left: 410px;
+}
+.Ava {
+  margin-top: 80px;
+  margin-left: 410px;
+}
+.content {
+  margin-left: 110px;
+  margin-top: -35px;
+  font-weight: 500;
+}

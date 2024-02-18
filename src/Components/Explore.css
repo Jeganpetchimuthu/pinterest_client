@@ -1,0 +1,92 @@
+.explore-head {
+  width: 100%;
+  height: 40px;
+  background-color: white;
+}
+.exploreIcon {
+  background-color: white;
+  width: 100%;
+}
+.homeImage {
+  width: 370px;
+  height: 350px;
+  margin-left: -710px;
+  border: 1px solid white;
+  border-radius: 30px;
+}
+.homeImage:hover {
+  opacity: 0.5;
+}
+.hutImage {
+  width: 350px;
+  height: 350px;
+  margin-left: 190px;
+  border: 1px solid white;
+  border-radius: 30px;
+}
+.houseview {
+  margin-left: -200px;
+  text-decoration: none;
+}
+.house-name {
+  position: relative;
+  color: white;
+  margin-left: -950px;
+  margin-top: -170px;
+  font-weight: 900;
+}
+.house-name1 {
+  position: relative;
+  color: white;
+  margin-left: -250px;
+  margin-top: -170px;
+  font-weight: 900;
+}
+.nail {
+  position: relative;
+  width: 370px;
+  height: 350px;
+  margin-left: 130px;
+  border: 1px solid white;
+  border-radius: 30px;
+  margin-top: -230px;
+  background-color: black;
+}
+.nail:hover {
+  opacity: 0.7;
+}
+.viewmore {
+  position: relative;
+  color: #f07b7b;
+  margin-left: -990px;
+
+  font-weight: 900;
+  padding: 15px;
+  background-color: rgb(222, 20, 20);
+}
+.plant {
+  width: 370px;
+  height: 350px;
+  margin-left: 960px;
+  margin-top: -230px;
+  border-radius: 30px;
+}
+.house-name2 {
+  position: relative;
+  color: white;
+  margin-left: 580px;
+  margin-top: -170px;
+  font-weight: 900;
+}
+.explore-subtitle {
+  position: relative;
+  top: 280px;
+}
+.exploreDeadline {
+  position: relative;
+  top: 100px;
+}
+.exploredeadlines2 {
+  position: relative;
+  top: 350px;
+}

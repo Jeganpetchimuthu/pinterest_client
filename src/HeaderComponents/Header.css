@@ -1,0 +1,138 @@
+.headerComponents {
+  background-color: rgb(253, 252, 252);
+  position: fixed;
+  width: 100%;
+  height: 70px;
+  text-decoration: none;
+  margin-top: -50px;
+
+  margin-bottom: 50px;
+}
+.headerNavication {
+  justify-content: space-between;
+}
+.pinterestImg {
+  width: 30px;
+  height: 30px;
+  margin-left: -340px;
+  margin-top: 30px;
+  margin-bottom: -7px;
+  padding-right: 10px;
+}
+.home {
+  text-underline-offset: none;
+  color: black;
+  cursor: pointer;
+  padding: 10px 10px 10px 10px;
+  margin-left: 10px;
+  border: 1px solid rgb(204, 163, 244);
+  border-radius: 25px;
+  background-color: #f0efefcc;
+  border: 1px solid whitesmoke;
+  font-weight: 500;
+  text-decoration: none;
+}
+.home:hover {
+  background-color: black;
+  color: white;
+}
+.explore {
+  color: black;
+  font-weight: 500;
+
+  cursor: pointer;
+  padding: 10px 10px 10px 10px;
+  margin-left: 20px;
+  border: 1px solid rgb(240, 237, 243);
+  border-radius: 25px;
+  background-color: #f0efefcc;
+  border: 1px solid whitesmoke;
+  text-decoration: none;
+}
+.explore:hover {
+  background-color: black;
+  color: white;
+}
+.create {
+  color: black;
+  font-weight: 500;
+
+  cursor: pointer;
+  padding: 10px 10px 10px 10px;
+  margin-left: 30px;
+  border: 1px solid rgb(240, 237, 243);
+  border-radius: 25px;
+  background-color: #f0efefcc;
+  border: 1px solid whitesmoke;
+}
+.create:hover {
+  background-color: black;
+  color: white;
+}
+.input {
+  padding: 10px 10px 10px 10px;
+  color: black;
+  margin-left: 40px;
+  width: 600px;
+  height: 27px;
+  border-radius: 25px;
+  background-color: #f0efefcc;
+  border: 1px solid whitesmoke;
+  box-shadow: 1px 1px 1px 1px #e9e7e7cc;
+}
+.input:hover {
+  background-color: #f0efefcc;
+  box-shadow: 1px 1px 1px 1px #daedf2cc;
+}
+.login {
+  color: black;
+  font-weight: 500;
+
+  padding: 10px 10px 10px 10px;
+  margin-left: 50px;
+  border: 1px solid whitesmoke;
+  border-radius: 25px;
+  background-color: #f0efefcc;
+  cursor: pointer;
+}
+.login:hover {
+  background-color: rgb(4, 4, 4);
+  color: white;
+}
+.signup {
+  color: black;
+  font-weight: 500;
+
+  cursor: pointer;
+  color: white;
+  padding: 10px 10px 10px 10px;
+  margin-left: 60px;
+  margin-right: -280px;
+  border: 1px solid red;
+  width: 100px;
+  height: 90px;
+  background-color: rgb(252, 7, 7);
+  border-radius: 25px;
+}
+.signup:hover {
+  background-color: rgb(255, 6, 6);
+  color: white;
+}
+.message {
+  cursor: pointer;
+  color: black;
+  margin-left: 300px;
+  margin-top: 30px;
+  margin-bottom: -5px;
+  margin-top: 10px;
+  margin-right: -280px;
+  border-radius: 15px;
+}
+.searchIcon {
+  position: relative;
+  left: 80px;
+  top: 8px;
+}
+.homenav {
+  text-decoration: none;
+}

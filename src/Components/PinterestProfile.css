@@ -1,0 +1,151 @@
+.Profile {
+  border: 1px solid rgb(253, 251, 251);
+  height: 520px;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  border-radius: 4px;
+  margin-left: 250px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+.Avatar {
+  justify-content: center;
+  align-items: center;
+  padding: 50px 50px;
+  height: 200px;
+  width: 200px;
+  border-radius: 1px solid red;
+  margin-left: 35%;
+  margin-top: 100px;
+}
+.profile_name {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: larger;
+  color: beige;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 5px;
+  margin-left: 170px;
+}
+.profile_follower {
+  margin-left: 220px;
+  margin-top: -50px;
+}
+.pf_1 {
+  color: black;
+  font-family: sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+.pf_2 {
+  color: black;
+  font-family: sans-serif;
+  font-size: medium;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.ser-icon {
+  color: #ccc;
+  margin-top: 10px;
+  margin-left: -30px;
+  margin-bottom: -10px;
+}
+.input_box {
+  padding: 10px 10px;
+  border: 1px solid rgb(255, 224, 224);
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-left: 230px;
+  background-color: white;
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: beige;
+}
+.icon {
+  margin-left: -30px;
+  margin-top: 20px;
+  color: rgb(243, 236, 236);
+}
+.img {
+  position: relative;
+  top: 50px;
+  margin: 0px;
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+}
+.MoreIcon {
+  color: rgb(236, 226, 226);
+  margin-left: 90%;
+  margin-top: 10px;
+}
+.profile-username {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: larger;
+  color: beige;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 5px;
+  margin-left: 170px;
+}
+.profile_names {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: larger;
+  color: beige;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 5px;
+  margin-left: 10px;
+}
+.name {
+  color: white;
+}
+.user {
+  color: black;
+  margin-left: 210px;
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.users {
+  color: black;
+  margin-left: 10px;
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.user1 {
+  color: black;
+  margin-left: 210px;
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.profile-info {
+  margin-top: 100px;
+}
+.profile-imgs {
+  height: 140px;
+  width: 140px;
+  margin-left: 214px;
+  border-radius: 250px;
+  margin-bottom: 15px;
+  margin-top: -45px;
+}
+.edit-btn {
+  color: white;
+  width: 60px;
+  height: 40px;
+  padding: 5px 5px 5px 5px;
+  border-radius: 25px;
+  background-color: blue;
+  border: 1px solid white;
+  margin-left: 650px;
+  font-size: 17px;
+  font-weight: bolder;
+}

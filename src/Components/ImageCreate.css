@@ -1,0 +1,33 @@
+.creatImage {
+  width: 500px;
+  height: 500px;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 15px;
+  box-shadow: 2px 2px 2px 2px rgb(207, 18, 128);
+}
+.deleteImageIcons {
+  color: red;
+  margin-left: 40px;
+  margin-right: -100px;
+  background-color: rgb(251, 238, 238);
+  margin-top: -10px;
+  border-radius: 20px;
+  border: 1px solid white;
+}
+.createImage-container {
+  margin: 0px;
+  position: relative;
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: -130px;
+  overflow: hidden;
+  display: grid;
+  grid-template: max-content;
+  overflow: hidden;
+  border: 2px solid rgb(218, 214, 214);
+  width: 900px;
+  height: 100%;
+  box-shadow: 12px 12px 12px 12px wheat;
+  border-radius: 40px;
+}

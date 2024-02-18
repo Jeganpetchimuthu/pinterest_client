@@ -1,0 +1,35 @@
+.updateProfileImages {
+  margin: 0px;
+  margin-top: 0px;
+  border: 1px solid white;
+
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 4px;
+  margin-left: 300px;
+  color: white;
+}
+.file {
+  position: relative;
+  margin-left: 110px;
+  top: 50px;
+  padding: 15px 15px 15px 15px;
+  height: 10px;
+  background-color: white;
+  color: rgb(11, 11, 11);
+  border-radius: 10px;
+  border: 1px solid white;
+  padding-bottom: 20px;
+}
+.updateImg-submit {
+  position: relative;
+  top: 40px;
+  background-color: rgb(244, 233, 233);
+  padding: 10px 10px 10px 10px;
+  margin-left: 200px;
+
+  border-radius: 15px;
+  border: 1px solid rgb(251, 246, 246);
+}

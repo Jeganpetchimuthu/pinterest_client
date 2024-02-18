@@ -1,0 +1,17 @@
+.craeteimages {
+  margin-top: 0px;
+  position: relative;
+}
+.btn-upload {
+  margin-top: 90px;
+  color: white;
+  background-color: red;
+  padding: 15px 15px 15px 15px;
+  border-radius: 15px;
+  border: 1px solid white;
+  box-shadow: 4px 4px 4px 4px rgb(216, 216, 216);
+}
+.btn-upload:hover {
+  background-color: rgb(27, 25, 25);
+  color: rgb(246, 249, 248);
+}
